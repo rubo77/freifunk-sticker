@@ -30,5 +30,5 @@ Dieser Sticker ist angelehnt an entsprechende das Faltblatt:
 
  * https://github.com/rubo77/freifunk-faltblatt-6-seiten/
  
-Vielen Dank an anĺle Beteiligten.
+Vielen Dank an an alle Beteiligten.
  
