@@ -30,7 +30,7 @@ Die benötigten Fonts sind im Ordner `/fonts`, in Linux kann man fonts installie
 * `freifunk-sticker_85x55mm.sla` Haupt-Projekt (erfolgreich bei Flyer Alarm gedruckt)
 * `freifunk-sticker_85x35mm.sla` (falsches Format für Flyer Alarm)
 * `freifunk-sticker_Router_Skyline_Kiel_85x55mm.sla` Aufkleber für Router mit Kiel Skyline und URL (noch nicht drucken lassen)
-* * `exports/freifunk-sticker_Router_Skyline_Kiel__no_URL_85x55mm.pdf` enthält noch die alte Version ohne http://kiel.freifunk.net/
+ * `exports/freifunk-sticker_Router_Skyline_Kiel__no_URL_85x55mm.pdf` enthält noch die alte Version ohne http://kiel.freifunk.net/
 * `freifunk-sticker_252x87,4mm.sla` Din A4 groß zum selbstausdrucken
 * `freifunk-sticker_plain_85x55mm.sla` wie `freifunk-sticker_85x55mm.sla` nur ohne Himmel und Gras (noch nicht drucken lassen)
 * `freifunk-sticker_Router_85x55mm.sla` Aufkleber für Router mit Standard freifunk.net Logo (noch nicht drucken lassen)
