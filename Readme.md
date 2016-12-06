@@ -17,7 +17,7 @@ Beim Exportieren darauf achten:
 * Schriftarten -> "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
 
 ## Flyer-Alarm
-Der Sticker `freifunk-sticker_Router_85x55mm.sla` wurde so als PDF-Export erfolgreich 1000x gedruckt bei Flyer alarm
+Der Sticker `freifunk-sticker_85x55mm.sla` wurde so als PDF-Export `freifunk-sticker_85x55mm.pdf` exportiert und 1000x erfolgreich gedruckt bei Flyer-Alarm.
 
 # Fonts installieren
 Die benötigten Fonts sind im Ordner `/fonts`, in Linux kann man fonts installieren, z.b. mit:
@@ -47,4 +47,3 @@ Lizenz
 Die Inhalte sind in der Regel unter CC-BY-SA veröffentlicht. In Ausnahmen ist dies explizit angegeben!
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
