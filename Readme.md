@@ -17,7 +17,7 @@ Beim Exportieren darauf achten:
 * Schriftarten -> "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
 
 ## Flyer-Alarm
-Der Sticker `freifunk-sticker_85x55mm.sla` wurde so als PDF-Export `freifunk-sticker_85x55mm.pdf` exportiert und 1000x erfolgreich gedruckt bei Flyer-Alarm.
+Der Sticker `freifunk-sticker_85x55mm.sla` wurde so als PDF-Export `freifunk-sticker_85x55mm.pdf` exportiert und 1000x erfolgreich gedruckt bei [Flyer-Alarm](https://www.flyeralarm.com/de/shop/configurator/index/id/34/outdoor-aufkleber.html#159=586&160=609&161=615&162=585)
 
 # Fonts installieren
 Die benötigten Fonts sind im Ordner `/fonts`, in Linux kann man fonts installieren, z.b. mit:
