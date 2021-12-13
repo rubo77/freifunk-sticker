@@ -3,7 +3,7 @@ Diese Vorlage ist für die Community Kiel angepasst, aber Ihr könnt sie gerne f
 # Anpassen an deine Community
 Um den Sticker anzupassen einfach dieses Git Repository klonen und die Schriften anpassen. 
 
-Die Quell-Datei ist `freifunk-sticker.sla`, für die Bearbeitung ist **Scribus 1.5** nötig (hier benutze Version: 1.5.1), dies ist unter Debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
+Die Quell-Datei ist `freifunk-sticker.sla`, für die Bearbeitung ist mindestens **Scribus 1.5** nötig (hier benutze Version: 1.5.1), dies ist unter Debian in dem paket `scribus` erhältlich.
 
 Alle Quellen für den Sticker sind im Repository enthalten, also könnt ihr auch einfach weitere Änderungen einbauen.
 
@@ -17,7 +17,7 @@ Beim Exportieren darauf achten:
 * Schriftarten -> "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
 
 ## Flyer-Alarm
-Der Sticker `freifunk-sticker_85x55mm.sla` wurde so als PDF-Export `freifunk-sticker_85x55mm.pdf` exportiert und 1000x erfolgreich gedruckt bei [Flyer-Alarm](https://www.flyeralarm.com/de/shop/configurator/index/id/34/outdoor-aufkleber.html#159=586&160=609&161=615&162=585)
+Der Sticker `freifunk-sticker_85x55mm.sla` wurde so als PDF-Export `freifunk-sticker_85x55mm.pdf` exportiert und 1000x erfolgreich gedruckt bei [Flyer-Alarm](https://www.flyeralarm.com/de/shop/configurator/index/id/34/outdoor-aufkleber.html#159=586&160=609&161=615&162=585) (90 µm Haftfolie weiß ohne geschlitzte Rückseite)
 
 # Fonts installieren
 Die benötigten Fonts sind im Ordner `/fonts`, in Linux kann man fonts installieren, z.b. mit:
